@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <p align=center>
   <a href="https://github.com/xiegang">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=xiegang&show_icons=true&theme=radical">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=xiegang&show_icons=true&theme=dark">
   </a>
   <a href="https://github.com/xiegang">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiegang&hide=title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiegang&layout=compact&theme=dark" />
   </a>
 </p>
